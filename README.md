@@ -1,11 +1,6 @@
 ## Quiz App
 A simple quiz app built with react js
 
-<p align="center">
-  <img src="screenshots/image.png">
-</p>
-
-
 ### To run
 Make sure you have npm installed and run
 
@@ -18,3 +13,8 @@ Run the command below and add the build folder to your server.
 ```
 $ npm run build
 ```
+
+### Preview
+<p align="center">
+  <img src="screenshots/image.png">
+</p>
