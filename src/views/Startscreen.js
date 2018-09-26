@@ -1,13 +1,8 @@
 import React from "react";
 import Typography from '@material-ui/core/Typography';
-
-import { withStyles } from '@material-ui/core/styles';
 import { quizzes } from './../data/quiz.json';
 import QuizCard from './../components/QuizCard.js';
 
-const styles ={
-
-}
 
 function Startscreen(props){
   console.log(quizzes);
@@ -24,4 +19,4 @@ function Startscreen(props){
   );
 }
 
-export default withStyles(styles)(Startscreen);
+export default Startscreen;
